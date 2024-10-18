@@ -6,4 +6,4 @@ This website is built using HTML, CSS, and JavaScript.
 
 ## Visit the Site
 
-You can visit the site here: [FurniShop](https://simple-site-fashion.vercel.app/)
+You can visit the site here: [FurniShop](https://web-site-furni-shop.vercel.app/)
